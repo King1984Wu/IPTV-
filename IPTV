@@ -1,5 +1,11 @@
 大陆卫视,#genre#
 江苏卫视,http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159be8c414e0.jpg",江苏·南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159be8c3e2ff.jpg",江苏·南京教科
+http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159bf9d58559.jpg",江苏·南京生活
+http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 浙江卫视,http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8
 东方卫视,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 安徽卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
@@ -10,13 +16,29 @@
 厦门一套,http://cstvpull.live.wscdns.com/live/xiamen1.flv
 海霞卫视,http://by4.nty.tv189.cn/live/tm-haixiatv-800k.m3u8
 江西卫视,http://ivi.bupt.edu.cn/hls/jxtv.m3u8
-重庆卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/chongqing_2/index.m3u8
 广东卫视,http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 广州影视,http://aplay.gztv.com/sec/yingshi.m3u8
+#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视 50FPS
+http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225592/1.m3u8
+#EXTINF:-1 group-title="省市地方",广西·南宁都市
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+#EXTINF:-1 group-title="省市地方",广西·北海公共频道
+https://cdn.gdlive.gdmain.com/live/5187ddml_master.m3u8
+#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视 50FPS
+http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/1.m3u8
+#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视 FHD
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视 50FPS
+http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225600/1.m3u8
+重庆卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/chongqing_2/index.m3u8
 海南卫视,http://by4.nty.tv189.cn/live/tm-traveltv-800k.m3u8
+#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视 50FPS
+http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/1.m3u8
 天津卫视,http://ivi.bupt.edu.cn/hls/tjtv.m3u8
 河北卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/hebei_2/index.m3u8
 河南卫视,http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/henan_2/index.m3u8
+#EXTINF:-1 group-title="杭州移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视
+http://117.148.179.137/PLTV/88888888/224/3221227909/index.m3u8
 陕西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
 宁夏卫视,http://cctvalih5ca.v.myalicdn.com/wstv/ningxia_2/index.m3u8
 黑龙江卫视,http://cctvalih5ca.v.myalicdn.com/wstv/heilongjiang_2/index.m3u8
@@ -118,6 +140,16 @@ CGTN 法语频道,http://live.cgtn.com/1000f/prog_index.m3u8
 凤凰资讯,http://125.210.152.18:9090/live/FHZX_1200.m3u8
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",TVB明珠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台 FHD
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2 FHD
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png",香港国际财经 FHD
+https://cdn.hkdtmb.com/hls/76/index.m3u8
 TVB星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
 耀才財經,http://hk.tv0668.com/dl/hk520.php?id=19
 澳门莲花,http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
@@ -127,6 +159,32 @@ TVB星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.
 环球电视,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中视HD,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png",台视新闻台
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻台
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png",momo综合台
+http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台",三立Live新闻
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png",三立iNews
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台湾
+https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png",三立都会
+https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻台
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png",TVBS新闻台 HD
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv#rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226121/1.m3u8#http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
 东森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
