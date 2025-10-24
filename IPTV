@@ -164,3 +164,26 @@ TVB星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.
 CCTV5体育,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000205103.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225491/index.m3u8
 BTV6纪实,http://by4.nty.tv189.cn/tm-btvjishihd-4000k.m3u8
 劲爆体育,http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
+BBC,#genre#
+#EXTINF:-1,BBC - Radio 1
+http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC - Radio 1Xtra
+http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC - Radio 1Dance
+http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC - Radio 1 Anthems (UK Only)
+http://as-hls-uk-live.akamaized.net/pool_11351741/live/uk/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC - Radio 2
+http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC - Radio 3
+http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC - Radio 3 Unwind (UK Only)
+http://as-hls-uk-live.akamaized.net/pool_30624046/live/uk/bbc_radio_three_unwind/bbc_radio_three_unwind.isml/bbc_radio_three_unwind-audio%3d320000.norewind.m3u8
+#EXTINF:-1,BBC - Radio 4
+http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC - Radio 4 Extra
+http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC - Radio 5 live
+http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC - Radio 6 Music
+http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
